@@ -6,7 +6,7 @@ describe("Adding two numbers", () => {
        expect(sum(9,5)).toBe(14)               
    })
    it("Adding larger numbers", ()=> {
-    expect(sum(965465,56565)).toBe(1022030)               
+       expect(sum(965466,56565)).toBe(1022031)               
    })
 })  
 
